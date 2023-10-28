@@ -7,9 +7,11 @@ KRNS - Known for Rarity, Niche &amp; Specialized
 ![Screenshot](assets/krnsfra.png)
 
 ## Overview
+
 Created to bring order to the perpetually cluttered LoRA/LyCORIS storage directories of Stable Diffusion and the rather chaotic file names downloaded from Civitai. KRNS LoRA/LyCORIS File Renamer is a tool with a GUI, built using Python and PyQt5, for batch renaming LoRA/LyCORIS files.
 
 ## Features
+
 Directory Selection
 Click Select Directory to choose the directory where your LoRA/LyCORIS files are stored.
 
@@ -24,6 +26,7 @@ Click Select Directory to choose the directory where your LoRA/LyCORIS files are
 ## How to Run
 
 ### Method 1: For those familiar with Python. Clone this repository, install PyQt5, and execute KRNS-renamer.py
+
 Execute the following commands one line at a time:
 
 ``` bash
@@ -34,20 +37,24 @@ python KRNS-renamer-alpha.py
 ```
 
 ### Method 2: For those who don't want to mess with the command line in a Windows environment. Download and execute the .exe file
-Release Page: https://github.com/kai-rin/KRNS/releases
+
+Release Page: <https://github.com/kai-rin/KRNS/releases>
 
 KRNS-renamer-hogehoge.exe is simply created using pyinstaller --onefile --noconsole --icon=KRNS-renamer-alpha.ico KRNS-renamer-alpha.py.
 
 ### Mechanics
+
 The program processes each directory and sub-directory to find .civitai.info files. It then uses the modelId and the original file name recorded in these files to rename the files.
 
 ### Contributions
+
 If you have better ideas or find bugs, feel free to fork the repository, make a little tweak, and send a pull request. The author has a rather laid-back approach to software development, so all contributions are welcome and will likely bring great joy.
 
 ### License
+
 Published in accordance with PyQt5's licensing policy under the GNU General Public License v3.0 (GPLv3).
 
-Reference: https://www.gnu.org/licenses/gpl-3.0.en.html
+Reference: <https://www.gnu.org/licenses/gpl-3.0.en.html>
 
 ## 概要
 
