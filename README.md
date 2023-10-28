@@ -9,7 +9,7 @@
 
 **KRNS LoRA/LyCORIS File Classifier / KRNS LoRA/LyCORIS ファイル分別器**
 
-![LoRA/LyCORIS file classifier](assets/krnsfca.png)
+[![LoRA/LyCORIS file classifier](assets/krnsfca.png)](https://github.com/kai-rin/KRNS/releases)
 
 ## KRNS LoRA/LyCORIS file renamer
 
