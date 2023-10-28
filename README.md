@@ -4,7 +4,7 @@ KRNS - Known for Rarity, Niche &amp; Specialized
 
 日本語の説明は[下の方](https://github.com/kai-rin/KRNS#%E6%A6%82%E8%A6%81)にあります
 
-![Screenshot](assets\krnsfra.png)
+![Screenshot](assets/krnsfra.png)
 
 ## Overview
 Created to bring order to the perpetually cluttered LoRA/LyCORIS storage directories of Stable Diffusion and the rather chaotic file names downloaded from Civitai. KRNS LoRA/LyCORIS File Renamer is a tool with a GUI, built using Python and PyQt5, for batch renaming LoRA/LyCORIS files.
